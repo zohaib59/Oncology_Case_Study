@@ -1,0 +1,60 @@
+🩺 Oncology Case Study: Synthetic Dataset for India
+
+## Overview
+This project presents a **synthetic oncology dataset** designed for **classification tasks** in healthcare analytics.  
+The dataset is tailored for the **Indian healthcare context**, with **60,000 records** and an **80:20 class distribution** (benign vs malignant).  
+
+🚀 Breaking Barriers in Healthcare AI: Synthetic Oncology Dataset for India 🩺
+
+I just engineered a **60,000-record oncology dataset** for India — tailored for **classification tasks** (benign vs malignant).  
+It’s packed with **real-world variables**: demographics, lifestyle, comorbidities, hospital type, insurance coverage, treatment history… 
+all logically imputed to reflect the Indian healthcare ecosystem.  
+
+This isn’t just data. It’s a **business opportunity**:  
+- Fraud detection in healthcare billing  
+- Predictive oncology pipelines  
+- GenAI proof-of-concepts for clients  
+- Benchmark datasets for ML teams  
+
+Imagine pitching this to a hospital chain or insurer — **AI that saves lives and revenue**.  
+
+
+## 🎯 Use Case
+- Fraud detection in healthcare billing  
+- Predictive modeling for oncology diagnosis  
+- Business development opportunities in healthcare analytics  
+- Benchmarking ML pipelines for classification accuracy (80–90%)
+
+
+## 🧾 Dataset Variables
+- **Patient Demographics**: Age, Gender, Region, Urban/Rural
+- **Clinical Features**: Cancer Type, Stage, Duration of Symptoms, Family History
+- **Lifestyle Factors**: Smoking, Alcohol, Diet, Occupation
+- **Comorbidities**: Diabetes, Hypertension, TB, Multiple
+- **Healthcare Context**: Hospital Type, Insurance Coverage, Treatment History
+- **Severity Indicators**: Severity Score, Follow-up Visits
+- **Target Variable**: `Diagnosis_Class`  
+  - `0` → Benign / Non-severe (80%)  
+  - `1` → Malignant / Severe (20%)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
